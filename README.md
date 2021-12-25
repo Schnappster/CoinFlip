@@ -1,0 +1,2 @@
+# CoinFlip
+Flips a coin
